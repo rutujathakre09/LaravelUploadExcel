@@ -15,7 +15,7 @@ use App\Http\Controllers\EmployeesController;
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('employees');
 });
 
 Route::get('excel-upload', [EmployeesController::class, 'excelUpload'])->name('excel-upload');
