@@ -2,7 +2,7 @@
 
 - Create a database locally named `upload_excel`
 - Git clone project from url :https://github.com/rutujathakre09/LaravelUploadExcel.git
-- Open the console and `cd LaravelUploadExcel root` directory
+- Open the console and `cd LaravelUploadExcel` directory
 - Run `composer install`
 - Run `php artisan key:generate`
 - Run `php artisan migrate`
