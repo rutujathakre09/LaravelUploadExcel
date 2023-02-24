@@ -19,3 +19,6 @@
 
 - maatwebsite version 3.1
 - yajra version 10.3
+
+### Data
+Sample Employee data is provided in `Employee_Sample_Data.xlsx` file .This can be used to import data from WebUI/Frontend
